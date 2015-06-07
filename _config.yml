@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       sciamp
+email:       me@scia.mp
+author:      Alessandro Campagni
+description: ""
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://blog.scia.mp"
 
 # Google analytics
 google_analytics:

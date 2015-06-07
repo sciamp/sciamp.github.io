@@ -1,8 +1,9 @@
 ---
 layout: page
-title: About Pixyll
 permalink: /about/
 ---
+
+![Man an the lagoon](/images/me.png)
 
 This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
 ([@4lpine](https://twitter.com/4lpine)).
