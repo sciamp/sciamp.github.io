@@ -1,0 +1,40 @@
+---
+layout: post
+title: "GSoC 2013"
+date: 2013-06-03 11:33
+comments: true
+categories: [programming, google, summer, code, gnome]
+---
+
+It's been a long time since my last post (now disabled due to some
+issues with importation in octopress, sorry!). Well I was a little busy: last
+exams, my
+[bachelor degree](http://www.youtube.com/watch?v=qm0iYfsAyvA)
+([Edoardo](http://www.lenotta.com/) thanks for the excellent video!), and of course some warm up before applying
+for the
+[Google Summer of Code 2013](https://google-melange.appspot.com/gsoc/homepage/google/gsoc2013).
+
+<!-- More -->
+
+The goal of the summer of code is a presenter view in
+[GNOME Documents](https://live.gnome.org/GnomeDocuments)/[Evince](http://projects.gnome.org/evince/)
+with some goodies to enhance the quality of the presentation, maybe
+this poor picture is worth (more than) a thousand words:
+
+![GSoC idea](/images/idea.png)
+
+My mentor is [Cosimo Cecchi](http://blogs.gnome.org/cosimoc/).
+
+I'm afraid I'm not so fluent to tell you how much I'm thrilled about
+this GSoC thing :D
+
+I believe it's a very big opportunity to learn a thing or two (I heard
+my mentor is pretty skilled!) and, to me, this is much more than the
+(nice and of course appreciated) paycheck!
+
+More informations are (or will be :P) available at the project page on
+[gnome.org](https://live.gnome.org/SummerOfCode2013/Projects/AlessandroCampagni_DualScreen).
+I will start coding on June 17th and I will blog about it every two
+week.
+
+That's all for now!
